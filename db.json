@@ -1,0 +1,170 @@
+{
+  "enquiry": [
+    {
+      "firstName": "ahmed ",
+      "lastName": "gamal",
+      "email": "a@gmail.com",
+      "mobile": 12380123947129,
+      "weight": 50,
+      "height": 1.7,
+      "bmi": 17.301038062283737,
+      "bmiResult": "Underweight",
+      "gender": "male",
+      "requireTrainer": "Yes",
+      "package": "monthle",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-30T07:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "ascf",
+      "lastName": "sdcsdc",
+      "email": "a@d.dd",
+      "mobile": 1231456363,
+      "weight": 65,
+      "height": 1.6,
+      "bmi": 25.390624999999996,
+      "bmiResult": "Overweight",
+      "gender": "female",
+      "requireTrainer": "Yes",
+      "package": "yearly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-30T07:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Mohamed",
+      "lastName": "Gamal",
+      "email": "alz2@xsa.ff",
+      "mobile": 2398472869,
+      "weight": 80,
+      "height": 1.77,
+      "bmi": 25.53544639152223,
+      "bmiResult": "Overweight",
+      "gender": "female",
+      "requireTrainer": "Yes",
+      "package": "quarterly",
+      "important": [
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-23T07:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "ahmed ",
+      "lastName": "gamal",
+      "email": "Aa@gmail.com",
+      "mobile": 1238012394,
+      "weight": 50,
+      "height": 1.7,
+      "bmi": 17.301038062283737,
+      "bmiResult": "Underweight",
+      "gender": "male",
+      "requireTrainer": "Yes",
+      "package": "quarterly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-30T07:00:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "Omar",
+      "lastName": "GAMAL",
+      "email": "a@a.co",
+      "mobile": 203482094,
+      "weight": 83,
+      "height": 1.8,
+      "bmi": 25.61728395061728,
+      "bmiResult": "Overweight",
+      "gender": "male",
+      "requireTrainer": "Yes",
+      "package": "quarterly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-31T07:00:00.000Z",
+      "id": 5
+    },
+    {
+      "firstName": "gtrgtrg",
+      "lastName": "rtgtr",
+      "email": "rtgrg",
+      "mobile": 4564564,
+      "weight": 45,
+      "height": 1.6,
+      "bmi": 17.578124999999996,
+      "bmiResult": "Underweight",
+      "gender": "female",
+      "requireTrainer": "Yes",
+      "package": "yearly",
+      "important": [
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-30T07:00:00.000Z",
+      "id": 6
+    },
+    {
+      "firstName": "Hend",
+      "lastName": "Mohamed Saad",
+      "email": "end@gemil.com",
+      "mobile": 1000327834,
+      "weight": 63,
+      "height": 1.63,
+      "bmi": 23.711844630960897,
+      "bmiResult": "Normal",
+      "gender": "female",
+      "requireTrainer": "Yes",
+      "package": "monthle",
+      "important": [
+        "Building Lean Muscle",
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-30T07:00:00.000Z",
+      "id": 8
+    },
+    {
+      "firstName": "Esraa",
+      "lastName": "Gamal",
+      "email": "es@gamil.com",
+      "mobile": 253454756,
+      "weight": 55,
+      "height": 1.6,
+      "bmi": 21.484374999999996,
+      "bmiResult": "Normal",
+      "gender": "male",
+      "requireTrainer": "Yes",
+      "package": "quarterly",
+      "important": [
+        "Energy and Endurance",
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-08-29T07:00:00.000Z",
+      "id": 11
+    }
+  ]
+}

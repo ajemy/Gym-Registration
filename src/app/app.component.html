@@ -1,0 +1,21 @@
+<mat-toolbar color="primary">
+  <h1>Gym Rigistration App</h1>
+  <span class="example-spacer"></span>
+
+  <button
+    mat-raised-button
+    style="margin-right: 3px"
+    routerLink="/"
+    color="accent"
+  >
+    Home
+  </button>
+  <button mat-raised-button routerLink="/list" color="accent">
+    View Enquiries
+  </button>
+</mat-toolbar>
+<div class="container mt-4">
+  <router-outlet></router-outlet>
+</div>
+<ng-toast></ng-toast>
+<ng-confirm></ng-confirm>
